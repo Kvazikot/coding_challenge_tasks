@@ -5,3 +5,4 @@ When the door i open molecules start penetrate to second section of the box.
 There was a door in the center of the screen and molecules (small circles) could pass through it to another compartment.
 During the collision of particles in it, the energy exchange was calculated according to the law of conservation of momentum.
 After a few minutes of simulation, equilibrium was not established.
+BUt those program was lost in the thrmodynamic chaos. So this project can be a starting seed for the new program
